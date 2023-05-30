@@ -1,0 +1,176 @@
+nav{
+        display: none;
+}
+.slideshow-container{
+        margin-top: 1.5rem;
+        margin-left: 3rem;
+        margin-bottom: 1.5rem;
+        margin-right: 3em;
+        flex-direction: column;
+        flex-wrap: wrap;
+        display: block;
+        justify-content: center;
+}    
+.mySlides{
+    
+    width: 576px;
+    height: 576px;
+}    
+#buttons{
+    width: 34rem;
+    height: 5rem;
+    bottom: 84rem;
+    margin-top: 1rem;
+    margin-left: 14rem;
+    border-radius: 0.3rem;
+}
+.rating{
+        margin-top: 45rem;
+        margin-left: -21rem;
+        margin-bottom: 1.5rem;
+        margin-right: -19rem;
+        display: block;
+        flex-wrap: wrap;
+        flex-direction: column;
+}    
+#tbl{
+        margin-top: 68rem;
+        margin-left: 1.5rem;
+        margin-bottom: 1.5rem;
+        margin-right: 1.5rem;
+        flex-direction: column;
+        flex-wrap: wrap;
+        display: block;
+}    
+.container-box{
+        width: 38rem;
+        margin-top: 3.5rem;
+        margin-left: -3.5rem;
+        margin-bottom: 1.5rem;
+        margin-right: 1.5rem;
+        border-top-left-radius: 0.5rem 0.5rem;
+        border-top-right-radius: 0.5rem 0.5rem;
+        flex-direction: column;
+        flex-wrap: wrap;
+        display: block;
+}    
+#form{
+        padding-top: 1rem;
+        justify-content: center;
+}    
+.btn{
+    width: 36rem;
+    margin-left: -2.5rem;
+}
+hr.white{
+        margin-top: 2rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        width: 86%;
+        justify-content: center;
+}
+hr.gol01{
+        margin-top: 2rem;
+        margin-left: -3rem;
+        margin-right: 2rem;
+        width: 102%;
+}
+.form-01{
+        display: block;
+        width: 34rem;
+        height: 2rem;      
+        padding-left: 1rem;
+        margin-top: 0.5rem;
+        margin-left: -3rem;
+        margin-right: 1rem;
+}
+.form-02{
+        display: block;
+        width: 34rem;
+        height: 2rem;      
+        padding-left: 1rem;
+        margin-top: 0.5rem;
+        margin-left: -3rem;
+        margin-right: 1rem;
+} 
+.form-03{
+        display: block;
+        padding-left: 1rem;
+        margin-top: 0.5rem;
+        margin-left: -2rem;
+        margin-right: 1rem;
+        width: 34rem;
+        height: 2rem;      
+}
+.form-04{
+        display: block;
+        padding-left: 1rem;
+        margin-top: 0.5rem;
+        margin-left: -2rem;
+        margin-right: 1rem;
+        width: 34rem;
+        height: 2rem;      
+}
+label{
+    width: 30rem;
+    margin-left: 2rem;
+}
+.text-center{
+    text-align: left;
+    margin-left: -2.5rem;
+}
+.align-items-center{
+    width: 30rem;
+    margin-left: -0.5rem;
+}
+#tj103{
+    margin-bottom: 1.5rem;
+}
+#tj104{
+    margin-top: 0;
+    margin-left: 0.2rem;
+}
+.content-normal{
+    margin-left: 0.5rem;
+    margin-bottom: 0.2rem;
+    display: inline-block;
+    width: 80%;
+}
+.col-13{
+    margin-top: 6rem;
+    margin-left: 8.5rem;
+}
+.f-bold-01{
+    margin-bottom: -4.5rem;
+}
+.c-normal-02{
+    padding-top: 0rem;
+}
+.col-14{
+    width: 30rem;
+    height: 3rem;
+}
+.c-normal-03{
+    display: inline-block;
+    width: 80%;
+}
+#lm-03{
+    margin-top: 8rem;
+    margin-left: -24rem;
+}
+.bg-theme{
+    height: 4rem;
+}
+.theme{
+    font-weight: 500;
+    font-size: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.lead{
+    margin-left: 7rem;
+}
+#d-01{
+    width: 70%;
+    font-size: 1.2rem;
+}
